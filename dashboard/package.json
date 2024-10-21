@@ -49,7 +49,7 @@
     "@storybook/addons": "^7.6.17",
     "@storybook/blocks": "^8.3.5",
     "@storybook/nextjs": "^8.3.5",
-    "@storybook/preview-api": "^8.3.5",
+    "@storybook/preview-api": "^8.3.6",
     "@storybook/react": "^8.3.5",
     "@storybook/test": "^8.3.5",
     "@storybook/testing-library": "^0.2.2",
