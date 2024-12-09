@@ -40,7 +40,7 @@
     "typescript": "5.7.2"
   },
   "devDependencies": {
-    "@commitlint/cli": "^19.4.0",
+    "@commitlint/cli": "^19.6.0",
     "@commitlint/config-conventional": "^19.6.0",
     "@jest/globals": "^29.5.0",
     "@storybook/addon-essentials": "^8.3.5",
